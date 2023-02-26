@@ -31,7 +31,7 @@
 </div>
 </li>
 
-[See More Publications](./more_pubs.md)
+<a href="./more_pubs.md"> See More Publications <a>
 
 <br>
 
