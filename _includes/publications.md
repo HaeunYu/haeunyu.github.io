@@ -33,7 +33,7 @@
 
 <br>
 
-<a href="posts/more_pubs.md"> See More Publications </a>
+<a href="posts/2023-01-30-welcome-to-jekyll.markdown"> See More Publications </a>
 
 </ol>
 </div>
