@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I obtained M.Sc in Sungkyunkwan University under the supervision of Prof. Youngjoong Ko. I'm interested in building knowledge-enhanced language models that can solve real-world problems.
+I obtained M.Sc in Sungkyunkwan University under the supervision of Prof. Youngjoong Ko in Feb 2023. I'm interested in building knowledge-enhanced language models that can solve real-world problems.
 
 ## Research Interests
 
