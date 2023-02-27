@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 ---
 1. Bosung Kim, Hyewon Choi, Haeun Yu and Youngjoong Ko. Graph-based query reformulation for descriptive
 queries of jargon words using definitions. Expert Systems with Applications, Elsevier Science, Volume 214,
