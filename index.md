@@ -14,4 +14,6 @@ I obtained M.Sc in Sungkyunkwan University under the supervision of Prof. Youngj
 
 {% include_relative _includes/publications.md %}
 
+[See more publications](./_posts/2023-01-30-welcome-to-jekyll.markdown)
+
 

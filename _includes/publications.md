@@ -33,7 +33,5 @@
 
 <br>
 
-<a href="../posts/2023-01-30-welcome-to-jekyll.markdown"> See More Publications </a>
-
 </ol>
 </div>
