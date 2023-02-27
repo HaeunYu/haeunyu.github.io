@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-9" style="position: relative;padding-right: 10px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 12px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/shanemoon/dstc10/raw/main/papers/dstc10_aaai22_track2_25.pdf">Adapting Pre-trained Language Model for Dialogue State Tracking on Spoken Conversations</a></div>
     <div class="author"><strong>Haeun Yu</strong>, Taesuk Hong, Youngjoong Ko, Kwangyong Lee</div>
     <div class="periodical"><em>DSTC10 Workshop in the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022), 2022.</em></div>
