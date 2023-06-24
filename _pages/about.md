@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Haeun Yu :v:"
+title: "Hello, I'm Haeun Yu ✌️"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
