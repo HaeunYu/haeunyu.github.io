@@ -77,13 +77,11 @@ analytics:
   google:
     tracking_id          :
 
-# favicon
-favicon: "pink_favicon.png"
 
 # Site Author
 author:
   name             : "Haeun Yu"
-  avatar           : "profile.png"
+  avatar           : "haeunyu.jpg"
   bio              : "Junior Researcher @KT AI2XL"
   location         : "Seoul, South Korea"
   employer         :

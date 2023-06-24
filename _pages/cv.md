@@ -11,28 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.A. in GitHub, GitHub University, 2012
-* B.S. in 
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Global Korean Studies, Sogang University, Feb 2021
+* B.Sc in Bigdata Science (Data Analytics), Sogang University, Feb 2021 
+* M.Sc in Computer Science & Engineering, Sungkyunkwan University, Feb 2023
+* Expected to start Ph.D at University of Copenhagen from Sep 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Feb 2023 - Present: Assistant Research Engineer
+  * Korea Telecom (KT) AI2XL Lab.
