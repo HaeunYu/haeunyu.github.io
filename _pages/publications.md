@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+* Paper 1
+* Paper 2
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
