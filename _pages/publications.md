@@ -11,9 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
+2024
+=====
+* Haeun Yu, Pepa Atanasova, Isabelle Augenstein. Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods. <em>Proceedings of ACL 2024</em>, August 2024, to appear. [link](https://arxiv.org/abs/2404.18655)
+
 2023
 ======
-* Cheon-Young Park, Yewon Jeong, Eunji Ha, Chiyoung Kim, Haeun Yu, Joo-won Sung. CopyT5: Copy Mechanism and Post-Trained T5 for Speech-Aware Dialogue State Tracking System. <em>DSTC11 Workshop in the SIGDIAL x INLG 2023</em>, in Prague, Czech Republic, September 2023. [link](https://dstc11.dstc.community/workshop/accepted-papers#h.1m0or7prl8ng)
+* Cheon-Young Park, Yewon Jeong, Eunji Ha, Chiyoung Kim, Haeun Yu, Joo-won Sung. CopyT5: Copy Mechanism and Post-Trained T5 for Speech-Aware Dialogue State Tracking System. <em>DSTC11 Workshop in the SIGDIAL x INLG 2023</em>, in Prague, Czech Republic, September 2023. [link](https://aclanthology.org/2023.dstc-1.11/)
 
 * Haeun Yu, Youngjoong Ko. Enriching the Dialogue State Tracking Model with a Syntactic Discourse Graph. <em>Pattern Recognition Letters, Elsevier Science</em>, Volume 169, pp. 81-86, May 2023. [link](https://doi.org/10.1016/j.patrec.2023.03.024)
 
