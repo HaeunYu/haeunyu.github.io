@@ -19,7 +19,7 @@ Updates
 =====
 **July 2024** Our new work on Knowledge Conflict "From Internal Conflict to Contextual Adaptation of Language Models" is available on arXiv! [paper](https://arxiv.org/abs/2407.17023)
 
-**April 2024** I present "Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods" at ACL 2024, Bangkok, Thailand. [paper](https://aclanthology.org/2024.acl-long.444/)
+**April 2024** I'll present "Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods" at ACL 2024, Bangkok, Thailand. [paper](https://aclanthology.org/2024.acl-long.444/)
 
 
 Research Interests
