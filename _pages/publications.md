@@ -13,7 +13,10 @@ author_profile: true
 
 2024
 =====
-* Haeun Yu, Pepa Atanasova, Isabelle Augenstein. Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods. <em>Proceedings of ACL 2024</em>, August 2024, to appear. [link](https://arxiv.org/abs/2404.18655)
+* Haeun Yu, Pepa Atanasova, Isabelle Augenstein. Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods. <em>Proceedings of ACL 2024</em>, pp.8173-8186, Bangkok, Thailand, August 2024. [link](https://aclanthology.org/2024.acl-long.444/)
+
+* Sara Vera Marjanovi´c*, Haeun Yu*, Pepa Atanasova, Maria Maistro, Christina Lioma, Isabelle Augenstein.
+From Internal Conflict to Contextual Adaptation of Language Models. CoRR, abs/2407.17023, July 2024. [link](https://arxiv.org/abs/2407.17023)
 
 2023
 ======
