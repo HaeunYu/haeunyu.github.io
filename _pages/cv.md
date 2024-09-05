@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can check my full CV [here](https://github.com/HaeunYu/haeunyu.github.io/blob/main/files/paper1.pdf)
-<a href="../files/Haeun_cv_2024ver.pdf">link</a>
+You can check my full CV
+<a href="../files/Haeun_cv_2024ver.pdf">here</a>
 
 Education
 ======
