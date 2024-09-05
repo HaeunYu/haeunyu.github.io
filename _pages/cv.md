@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can check my full CV [here](https://github.com/HaeunYu/haeunyu.github.io/blob/main/files/paper1.pdf)
+<a href="https://github.com/HaeunYu/haeunyu.github.io/blob/main/files/paper1.pdf">link</a>
+
 Education
 ======
 * Sep 2023 - Present: Ph.D Fellow @Department of Computer Science, NLP Section, University of Copenhagen
