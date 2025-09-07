@@ -15,11 +15,8 @@ I'm interested in building and interpreting knowledge-enhanced language models.
 
 Updates
 =====
-**Sep 2024** Our new work on Knowledge Conflict "DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models" is accepted to Findings of EMNLP 2024! [paper](https://arxiv.org/abs/2407.17023)
+**Aug 2025** I started my internship at Nokia Bell Labs, Antwerp, Belgium!
 
-**July 2024** I'm visiting UI Lab (Prof. Alice Oh) & LK Lab (Prof. Minjun Seo) at KAIST!
-
-**April 2024** I'll present "Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods" at ACL 2024, Bangkok, Thailand. [paper](https://aclanthology.org/2024.acl-long.444/)
 
 
 Research Interests

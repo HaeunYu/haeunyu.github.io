@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can check my full CV
-<a href="../files/Haeun_cv_2024ver.pdf">here</a>
+<a href="../files/Haeun_cv_2025ver.pdf">here</a>
 
 Education
 ======
@@ -22,5 +22,7 @@ Education
 
 Work experience
 ======
+* Aug 2025 - Dec 2025 : PhD Intern
+  * Nokia Bell Labs. Antwerp, Belgium
 * Feb 2023 - Aug 2023 : Assistant Research Engineer
-  * Korea Telecom (KT) AI2XL Lab.
+  * Korea Telecom (KT) AI2XL Lab. Seoul, South Korea
