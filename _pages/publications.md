@@ -14,9 +14,9 @@ author_profile: true
 2025
 =====
 
-* Haeun Yu, Seogyeong Jeong, Siddhesh Pawar, Jisu Shin, Jiho Jin, Junho Myung, Alice Oh, Isabelle Augenstein. Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models. abs/2508.08879, August 2025. [link](https://arxiv.org/abs/2508.08879)
+* **Haeun Yu**, Seogyeong Jeong, Siddhesh Pawar, Jisu Shin, Jiho Jin, Junho Myung, Alice Oh, Isabelle Augenstein. Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models. abs/2508.08879, August 2025. [link](https://arxiv.org/abs/2508.08879)
 
-* Sekh Mainul Islam, Nadav Borenstein, Siddhesh Milind Pawar, Haeun Yu, Arnav Arora, Isabelle Augenstein. BiasGym: Fantastic LLM Biases and How to Find (and Remove) Them. abs/2508.08855, August 2025. [link](https://arxiv.org/abs/2508.08855)
+* Sekh Mainul Islam, Nadav Borenstein, Siddhesh Milind Pawar, **Haeun Yu**, Arnav Arora, Isabelle Augenstein. BiasGym: Fantastic LLM Biases and How to Find (and Remove) Them. abs/2508.08855, August 2025. [link](https://arxiv.org/abs/2508.08855)
 
 * Lovisa Hagström, Youna Kim, **Haeun Yu**, Sang-goo Lee, Richard Johansson, Hyunsoo Cho, Isabelle Augenstein. CUB: Benchmarking Context Utilisation Techniques for Language Models. abs/2505.16518, May 2025. [link](https://arxiv.org/abs/2505.16518)
 
@@ -25,7 +25,7 @@ author_profile: true
 2024
 =====
 
-* Sara Vera Marjanović*, **Haeun Yu***, Pepa Atanasova, Maria Maistro, Christina Lioma, Isabelle Augenstein.
+* Sara Vera Marjanović*, **Haeun Yu**, Pepa Atanasova, Maria Maistro, Christina Lioma, Isabelle Augenstein.
 DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models. <em>Findings of the Association for Computational Linguistics: EMNLP 2024</em>, pp.14346-14360, Miami, Florida, USA, November 2024. [link](https://aclanthology.org/2024.findings-emnlp.838/)
 
 * **Haeun Yu**, Pepa Atanasova, Isabelle Augenstein. Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods. <em>Proceedings of ACL 2024</em>, pp.8173-8186, Bangkok, Thailand, August 2024. [link](https://aclanthology.org/2024.acl-long.444/)
