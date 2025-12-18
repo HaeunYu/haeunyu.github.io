@@ -13,10 +13,13 @@ Currently, I'm a PhD student at the [CopeNLU](https://www.copenlu.com/), NLP Sec
 I'm interested in building and interpreting knowledge-enhanced language models.
 
 
-Updates
-=====
-**Aug 2025** I started my internship at Nokia Bell Labs, Antwerp, Belgium!
+[//]: # (Updates)
 
+[//]: # (=====)
+
+[//]: # (**Sep 2025** I started my internship at Nokia Bell Labs, Antwerp, Belgium!)
+
+[//]: # ()
 
 
 Research Interests
